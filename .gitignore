@@ -12,7 +12,7 @@ node_modules
 # We don't commit CSS, only LESS
 /public/css/*.css
 /public/css/*.map
-# Don't commit masters generated on the fly at startup, these import all the rest
+# Don't commit masters generated on the fly at startup, these import all the res
 /public/css/master-*.less
 .jshintrc
 /public/js/_site-compiled.js

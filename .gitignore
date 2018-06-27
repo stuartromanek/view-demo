@@ -6,7 +6,7 @@ npm-debug.log
 /public/apos-minified
 /data/temp/uploadfs
 node_modules
-!node_modules/VIEW-MODULE
+!node_modules/VIEW-MODULE/*
 # This folder is created on the fly and contains symlinks updated at startup (we'll come up with a Windows solution that actually copies things)
 /public/modules
 # We don't commit CSS, only LESS
